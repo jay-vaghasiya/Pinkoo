@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome!!</string>
+    <string name="crn">CRN</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="log_in">LOG IN</string>
+    <string name="empty_creds">Empty Credentials</string>
+    <string name="enter_creds">Enter Email and Password</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="add">Add</string>
+</resources>
